@@ -1,4 +1,4 @@
-# Tableau-Citi-Bike Analysis Project
+# Tableau-Citi-Bike
 
 ## Introduction
 
