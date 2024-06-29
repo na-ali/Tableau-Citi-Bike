@@ -1,6 +1,4 @@
-# Tableau-Citi-Bike
-
-# Citi Bike Analysis Project
+# Tableau-Citi-Bike Analysis Project
 
 ## Introduction
 
@@ -10,19 +8,19 @@ This project provides a detailed analysis of Citi Bike usage patterns in New Yor
 
 ### Dashboard 1: Station and Trip Analysis
 
-1. Map of Start Stations with Trip Counts
+#### 1. Map of Start Stations with Trip Counts
 
 Description: This map visualizes the distribution of trip start stations across the city, highlighting the number of trips originating from each station.
 
 Insights: The densest areas, marked by clusters of high trip counts, are located in Manhattan and parts of Brooklyn. These areas are likely to have a high demand for Citi Bikes due to population density and tourist attractions.
 
-2. Map of End Stations with Trip Counts
+#### 2. Map of End Stations with Trip Counts
 
 Description: This map shows where trips terminate, indicating popular destination stations.
 
 Insights: Similar to the start stations, the end stations with the highest trip counts are concentrated in Manhattan. This suggests that many riders use Citi Bikes for short trips within the city.
 
-3. Heatmap of Citi Bike Trip Density
+#### 3. Heatmap of Citi Bike Trip Density
 
 Description: The heatmap illustrates the density of bike trips across the city.
 
