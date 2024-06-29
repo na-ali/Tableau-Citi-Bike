@@ -26,19 +26,19 @@ Description: The heatmap illustrates the density of bike trips across the city.
 
 Insights: The heatmap reveals hotspots of bike activity, particularly around central Manhattan and key areas in Brooklyn. These regions see the most significant usage of Citi Bikes, indicating high mobility and accessibility needs.
 
-4. Histogram of Trip Distances
+#### 4. Histogram of Trip Distances
 
 Description: This histogram displays the distribution of trip distances.
 
 Insights: Most trips are short, typically less than 2 miles. This aligns with the expectation that Citi Bikes are primarily used for quick, local transportation rather than long-distance travel.
 
-5. Top 10 Start Stations by Number of Rides
+#### 5. Top 10 Start Stations by Number of Rides
 
 Description: A bar chart showing the top 10 start stations by trip count.
 
 Insights: The most popular start stations are located in busy commercial and residential areas, reflecting high demand for bike rentals in these zones.
 
-6. Top 10 End Stations by Number of Rides
+#### 6. Top 10 End Stations by Number of Rides
 
 Description: A bar chart showing the top 10 end stations by trip count.
 
@@ -46,25 +46,25 @@ Insights: Popular end stations mirror the start stations, indicating common rout
 
 ### Dashboard 2: Usage and User Analysis
 
-1. Proportion of Casual and Member Users
+#### 1. Proportion of Casual and Member Users
 
 Description: This pie chart shows the ratio of casual users to members.
 
 Insights: The majority of users are members, suggesting that many people find value in subscribing to the service for regular use.
 
-2. Monthly Total Bike Trips in 2023
+#### 2. Monthly Total Bike Trips in 2023
 
 Description: A line chart tracking the number of trips each month in 2023.
 
 Insights: There is a noticeable increase in trips during the warmer months (May to October), reflecting seasonal usage patterns where more people use bikes in pleasant weather.
 
-3. Peak Bike Usage Hours by Month
+#### 3. Peak Bike Usage Hours by Month
 
 Description: This heatmap indicates peak usage hours throughout different months.
 
 Insights: Peak usage hours are consistent, generally showing high activity during morning and evening rush hours. This pattern is typical of commuter behavior.
 
-4. Average Trip Duration by User Type
+#### 4. Average Trip Duration by User Type
 
 Description: A bar chart comparing the average trip duration of casual users and members.
 
@@ -72,19 +72,19 @@ Insights: Casual users tend to have longer trip durations compared to members, p
 
 ### Dashboard 3: Peak Usage Analysis
 
-1. Peak Usage Hours Heatmap
+#### 1. Peak Usage Hours Heatmap
 
 Description: A heatmap showing peak usage hours for each day of the week and month.
 
 Insights: The highest usage is observed during weekdays' morning and evening hours, correlating with commuting times. Weekends show a more even distribution of usage throughout the day.
 
-2. Trip Duration Distribution by Hour of Day
+#### 2. Trip Duration Distribution by Hour of Day
 
 Description: A line chart displaying the average trip duration at different hours of the day.
 
 Insights: Longer trip durations are more common in the early morning and late evening, possibly due to reduced traffic and leisurely rides.
 
-3. Bike Usage by Day of the Week
+#### 3. Bike Usage by Day of the Week
 
 Description: A bar chart illustrating the number of trips taken on each day of the week.
 
