@@ -4,6 +4,8 @@
 
 This project presents a comprehensive analysis of Citi Bike usage patterns in New York City, leveraging visualizations created with Tableau Public. The project aims to provide insights into various aspects of Citi Bike trips, including trip counts, user types, peak usage hours, trip durations, and station popularity.
 
+https://public.tableau.com/app/profile/najma.ali/viz/Citi_Bike_17196871113800/Story1 
+
 ## Visualizations
 
 ### Dashboard 1: Station and Trip Analysis
