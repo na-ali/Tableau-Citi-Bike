@@ -26,43 +26,43 @@ This project presents a comprehensive analysis of Citi Bike usage patterns in Ne
 
 5. Top 10 Start Stations by Number of Rides
 
-  - Highlights the most popular start stations.
+   - Highlights the most popular start stations.
 
 6. Top 10 End Stations by Number of Rides
 
-  - Highlights the most popular end stations.
+   - Highlights the most popular end stations.
 
 ### Dashboard 2: Usage and User Analysis
 
 1. Proportion of Casual and Member Users
 
-  - Pie chart showing the ratio of casual users to members.
+   - Pie chart showing the ratio of casual users to members.
 
 2. Monthly Total Bike Trips in 2023
 
-  - Line chart tracking the number of trips each month in 2023.
+   - Line chart tracking the number of trips each month in 2023.
 
 3. Peak Bike Usage Hours by Month
 
-  - Heatmap indicating peak usage hours throughout different months.
+   - Heatmap indicating peak usage hours throughout different months.
 
 4. Average Trip Duration by User Type
 
-  - Bar chart comparing the average trip duration of casual users and members.
+   - Bar chart comparing the average trip duration of casual users and members.
 
 ### Dashboard 3: Peak Usage Analysis
 
 1. Peak Usage Hours Heatmap
 
-  - Heatmap showing peak usage hours for each day of the week and month.
+   - Heatmap showing peak usage hours for each day of the week and month.
 
 2. Trip Duration Distribution by Hour of Day
 
-  - Line chart displaying the average trip duration at different hours of the day.
+   - Line chart displaying the average trip duration at different hours of the day.
 
 3. Bike Usage by Day of the Week
 
-  - Bar chart illustrating the number of trips taken on each day of the week.
+   - Bar chart illustrating the number of trips taken on each day of the week.
 
 ## Story Points
 
