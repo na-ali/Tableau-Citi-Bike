@@ -51,7 +51,7 @@ Casual users tend to have longer trip durations compared to members, possibly be
 
 1. Peak Usage Hours Heatmap
 A heatmap showing peak usage hours for each day of the week and month.
-Insights: The highest usage is observed during weekdays' morning and evening hours, correlating with commuting times. Weekends show a more even distribution of usage throughout the day.
+The highest usage is observed during weekdays' morning and evening hours, correlating with commuting times. Weekends show a more even distribution of usage throughout the day.
 
 2. Trip Duration Distribution by Hour of Day
 A line chart displaying the average trip duration at different hours of the day.
